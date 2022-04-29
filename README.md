@@ -14,7 +14,7 @@ Bu proje angular ve Asp.Net ile yapılan araç kiralama sitesidir
 
 ## Amaç
 ```
-Projede amaç angular ve firebase ile araç kiralama sitesi yapmaktır.
+Projede amaç asp.net ve angular ile araç kiralama sitesi yapmaktır.
 ```
 
 ## İnstallation
