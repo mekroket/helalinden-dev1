@@ -1,7 +1,7 @@
-# helalinden-dev1 VeriTabanı ve Swagger Tablosu Görüntüleri
+# helalinden-dev1
+## VeriTabanı ve Swagger Tablosu Görüntüleri
 ## Oğuz Kaan Ekin 20211129075 Vize Ödevi / Akdeniz Üniversitesi
 # Rent a Car Asp.Net
-## Veri Tablosu ve Swagger Tablosu 
 Bu proje angular ve Asp.Net ile yapılan araç kiralama sitesidir
 
 
