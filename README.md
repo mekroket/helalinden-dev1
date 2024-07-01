@@ -10,7 +10,7 @@ Bu proje angular ve Asp.Net ile yapılan araç kiralama sitesidir
 [![image](https://www.linkpicture.com/q/Ekran-goruntusu-2022-04-30-000706.png)](https://www.linkpicture.com/view.php?img=LPic626c543477ff2565562207)
 
 ## Swagger Tablosu
-[![image](https://www.linkpicture.com/q/Ekran-goruntusu-2022-04-30-000534.png)](https://www.linkpicture.com/view.php?img=LPic626c540d533ed1936085912)
+![Swagger Görüntüsü](https://github.com/mekroket/helalinden-dev1/blob/master/swagger.png)
 
 ## Amaç
 ```
