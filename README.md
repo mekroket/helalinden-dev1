@@ -7,10 +7,11 @@ Bu proje angular ve Asp.Net ile yapılan araç kiralama sitesidir
 
 ## Veritabanı Tablosu
 
-[![image](https://www.linkpicture.com/q/Ekran-goruntusu-2022-04-30-000706.png)](https://www.linkpicture.com/view.php?img=LPic626c543477ff2565562207)
+[![VeriTabanı](https://github.com/mekroket/helalinden-dev1/blob/master/verisemasi.png)
 
 ## Swagger Tablosu
 ![Swagger Görüntüsü](https://github.com/mekroket/helalinden-dev1/blob/master/swagger.png)
+
 
 ## Amaç
 ```
